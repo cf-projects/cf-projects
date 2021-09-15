@@ -5,12 +5,17 @@ Greetings! I am Clark. Recently I was a Customer Succcess Manager in the SaaS in
   My past experience is mainly in the HR and Finance industries, but I have worked closely with biopharma and science research teams as well. 
 
 Education material completed to date: 9/15/2021
+
   'Learn Python the Hard Way' Zed Shaw
+
   'Automate the Boring Stuff with Python' Al Sweigart
   
 Currently working through:
+  
   Free Code Camp
+  
   'Practical Python Projects' Yasoob Khalid
+  
   Various side projects based on interests at the time: weather analysis, real estate property records, econ simulation games, etc.
 
 
